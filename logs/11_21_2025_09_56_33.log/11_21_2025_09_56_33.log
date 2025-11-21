@@ -1,0 +1,7 @@
+[2025-11-21 09:56:33,505] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-11-21 09:56:33,527] 97 werkzeug - INFO -  * Debugger PIN: 449-896-707
+[2025-11-21 09:57:34,422] 97 werkzeug - INFO - 127.0.0.1 - - [21/Nov/2025 09:57:34] "GET / HTTP/1.1" 200 -
+[2025-11-21 09:57:34,500] 97 werkzeug - INFO - 127.0.0.1 - - [21/Nov/2025 09:57:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2025-11-21 09:58:01,291] 97 werkzeug - INFO - 127.0.0.1 - - [21/Nov/2025 09:58:01] "GET /prediction HTTP/1.1" 200 -
+[2025-11-21 09:58:10,560] 97 werkzeug - INFO - 127.0.0.1 - - [21/Nov/2025 09:58:10] "GET /prediction HTTP/1.1" 200 -
+[2025-11-21 09:58:23,148] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\Ananya Sinha\\VS code docs\\MLpython\\PROJECTS\\MLproject\\app.py', reloading

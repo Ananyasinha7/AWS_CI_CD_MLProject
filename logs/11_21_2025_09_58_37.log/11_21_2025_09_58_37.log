@@ -1,0 +1,5 @@
+[2025-11-21 09:58:37,842] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-11-21 09:58:37,851] 97 werkzeug - INFO -  * Debugger PIN: 449-896-707
+[2025-11-21 09:58:40,636] 97 werkzeug - INFO - 127.0.0.1 - - [21/Nov/2025 09:58:40] "[33mGET /prediction HTTP/1.1[0m" 404 -
+[2025-11-21 09:58:45,521] 97 werkzeug - INFO - 127.0.0.1 - - [21/Nov/2025 09:58:45] "GET /predict_data HTTP/1.1" 200 -
+[2025-11-21 09:59:56,998] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\Ananya Sinha\\VS code docs\\MLpython\\PROJECTS\\MLproject\\app.py', reloading

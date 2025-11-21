@@ -1,0 +1,12 @@
+[2025-11-20 20:36:40,386] 25 root - INFO - entered the data ingestion method
+[2025-11-20 20:36:40,414] 28 root - INFO - Read dataset as dataframe
+[2025-11-20 20:36:40,427] 33 root - INFO - Train test split initiated
+[2025-11-20 20:36:40,446] 38 root - INFO - ingestion of data completed
+[2025-11-20 20:36:40,453] 71 root - INFO - Read train and test data completed
+[2025-11-20 20:36:40,453] 72 root - INFO - Obtaining preprocessing object
+[2025-11-20 20:36:40,454] 51 root - INFO - Categorical columns encoded
+[2025-11-20 20:36:40,454] 52 root - INFO - Numerical columns scaled
+[2025-11-20 20:36:40,461] 84 root - INFO - Applying preprocessing object on training and testing dataframes
+[2025-11-20 20:36:40,530] 92 root - INFO - Saved preprocessing object
+[2025-11-20 20:36:40,552] 29 root - INFO - Splitting training and testing data
+[2025-11-20 20:39:30,515] 99 root - INFO - Best model found: Gradient Boosting with score: 0.8803280558395085
